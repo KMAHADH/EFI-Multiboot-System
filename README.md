@@ -1,6 +1,6 @@
 # EFI-Multiboot-System
 
-A work in progress...
+(A work in progress!)
 
 OS multi-boot system for EFI based machines:
 
